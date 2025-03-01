@@ -10,5 +10,5 @@ https://github.com/alpernae/AIHTTPAnalyzer
 
 https://github.com/BountySecurity/BountyPrompt
 
-
+https://github.com/byt3hx/ollama-ai-analyzer
 
